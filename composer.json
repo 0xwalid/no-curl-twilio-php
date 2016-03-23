@@ -1,5 +1,5 @@
 {
-    "name": "twilio/sdk",
+    "name": "no-curl-twilio/sdk",
     "type": "library",
     "description": "A PHP wrapper for Twilio's API",
     "keywords": ["twilio", "sms", "api"],
